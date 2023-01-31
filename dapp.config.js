@@ -2,16 +2,16 @@ const RPC_URL = process.env.NEXT_PUBLIC_ALCHEMY_RPC_URL
 
 const config = {
   title: 'Dapp',
-  description: 'test minting Dapp',
-  contractAddress: '0x31Ac6d1061C3b9CE1AC5476909BC55eB94375452',
-  etherscanLink:'https://etherscan.io/0x31Ac6d1061C3b9CE1AC5476909BC55eB94375452',
+  description: 'minting Dapp',
+  contractAddress: '0x0C2678c66A1A3Eb83786660628c3fF6b1D778cb9',
+  etherscanLink:'https://etherscan.io/0x0C2678c66A1A3Eb83786660628c3fF6b1D778cb9',
   maxMintAmount: 5,
   publicSalePrice: 0.6
 }
 
 const onboardOptions = {
   dappId: process.env.NEXT_PUBLIC_DAPP_ID,
-  networkId: 5, // Goerli
+  networkId: 1, // MAINNET
   darkMode: true,
   walletSelect: {
     description:'Plaese select a wallet',
