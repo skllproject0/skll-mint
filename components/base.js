@@ -354,7 +354,7 @@ const handleNav = () => {
           </div>
           <div className='flex flex-col'>
             <p className="text-2xl font-medium font-Kanit mt-5 tracking-wide">
-                  <span className="text-red-600">{totalMinted}{'  '} </span>/<span className="text-red-600">{'  '} 910{'  '}</span>Minted
+                  <span className="text-red-600">{totalMinted}{'  '} </span>/<span className="text-red-600">{'  '}{maxSupply}{'  '}</span>Minted
             </p>
           </div>
           
