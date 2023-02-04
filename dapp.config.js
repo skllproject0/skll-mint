@@ -4,7 +4,7 @@ const config = {
   title: 'Dapp',
   description: 'minting Dapp',
   contractAddress: '0x0C2678c66A1A3Eb83786660628c3fF6b1D778cb9',
-  etherscanLink:'https://etherscan.io/0x0C2678c66A1A3Eb83786660628c3fF6b1D778cb9',
+  etherscanLink:'https://etherscan.io/address/0x0C2678c66A1A3Eb83786660628c3fF6b1D778cb9#readContract',
   maxMintAmount: 5,
   publicSalePrice: 0.6
 }
