@@ -8,9 +8,9 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>SKLL</title>
+        <title>SKLL - Privacy Policy</title>
         <meta name="Description" content="Skulls Klubs LimitLess!" />
-        <link rel="icon" href="/Logoicon.png" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className= 'flex flex-col items-center md:mx-16 mx-2 font-Archivo [word-spacing:2px] my-[40px]'>
 
