@@ -18,7 +18,7 @@ export default function Home() {
         <h1 className='text-center text-2xl font-bold'>LAST UPDATED: JAN 16, 2023</h1>
         <br/>
         <br/>
-        <p className='text-[20px] font-medium md:mx-[-14px]'>Thank you for visiting our Insider Trading Policy. Please read this Insider Trading Policy (&quot;Trading Policy&quot; or &quot;Policy&quot;) carefully because they govern your use of the &quot;Skll Klub Limit Less&quot; brand, original collection of  NFT's.
+        <p className='text-[20px] font-medium md:mx-[-14px]'>Thank you for visiting our Insider Trading Policy. Please read this Insider Trading Policy (&quot;Trading Policy&quot; or &quot;Policy&quot;) carefully because they govern your use of the &quot;Skll Klub Limit Less&quot; brand, original collection of 908 NFT's.
 the website located at https://skll-mint.vercel.app/ and the content and functionalities accessible via the website (&quot;Site&quot;) offered by &quot;Skll Klub Limit Less&quot; (referred to in these Terms as either &quot;Skll Klub Limit Less&quot;, &quot;us&quot;, &quot;we&quot;, &quot;ours&quot;, &quot;team&quot; or &quot;Company&quot;) &quot;Skll Klub Limit Less&quot; provides its services (described below) and related content to you (&quot;you&quot; or &quot;User&quot;).</p><br/><br/>
 
 <ul className='list-decimal text-[20px] font-medium'>
