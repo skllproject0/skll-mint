@@ -18,8 +18,8 @@ export default function Terms () {
         <h1 className='text-center text-2xl font-bold'>LAST UPDATED: JAN 16, 2023</h1>
         <br/>
         <br/>
-        <p className='text-[20px] font-medium md:mx-[-14px]'>Thank you for visiting our terms. Please read these Terms (“Terms”) carefully because they govern your use of the "Skll Klub Limit Less" brand, original collection of 910 NFT's.
-the website located at https://skll-testnet.vercel.app/ and the content and functionalities accessible via the website (“Site”) offered by "Skll Klub Limit Less" (referred to in these Terms as either “Skll Klub Limit Less”, “us”, “we”, “ours”, “team” or “Company”) "Skll Klub Limit Less" provides its services (described below) and related content to you (“you” or “User”).</p><br/><br/>
+        <p className='text-[20px] font-medium md:mx-[-14px]'>Thank you for visiting our terms. Please read these Terms (“Terms”) carefully because they govern your use of the "Skll Klub Limit Less" brand, original collection of 908 NFT's.
+the website located at https://skll-mint.vercel.app/ and the content and functionalities accessible via the website (“Site”) offered by "Skll Klub Limit Less" (referred to in these Terms as either “Skll Klub Limit Less”, “us”, “we”, “ours”, “team” or “Company”) "Skll Klub Limit Less" provides its services (described below) and related content to you (“you” or “User”).</p><br/><br/>
 
 <ul className='list-decimal text-[20px] font-medium'>
   <li>
@@ -27,7 +27,7 @@ the website located at https://skll-testnet.vercel.app/ and the content and func
    
     <ul className='list-[lower-latin]'>
       <li>
-      "Skll Klub Limit Less" refers to the generative art piece within each NFT inside of a collection of 910 that is stored in IPFS. Thus representing a unique Skll Klub Limit Less character.
+      "Skll Klub Limit Less" refers to the generative art piece within each NFT inside of a collection of 908 that is stored in IPFS. Thus representing a unique Skll Klub Limit Less character.
       </li><br/>
       <li>
       "Intellectual Property" or “IP” refers to copyrights, patents, trademarks, registered designs, design rights, domain names and naming or utility models. Applicable anywhere in the world.
@@ -76,7 +76,7 @@ We may change or discontinue all or any part of the Site at any time and without
     <p>
       <ul className='list-none'>
         <li>
-        Skll Klub Limit Less is a collection of 910 characters created by us with the expectation that they represent your digital identity through different platforms. Each NFT is unique, some rarer than others.
+        Skll Klub Limit Less is a collection of 908 characters created by us with the expectation that they represent your digital identity through different platforms. Each NFT is unique, some rarer than others.
       </li><br/>
       </ul>
     </p>
